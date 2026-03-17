@@ -1,6 +1,7 @@
 # Lab_6
 สุปรีญา รัตนมูล 683450195-5
 
+```mermaid
 classDiagram
 
 class Person{
